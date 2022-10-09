@@ -1,8 +1,4 @@
-# Trabajo Final Matemática Numérica II
-- Olivia González Peña 
-- Juan Carlos Casteleiro Wong
-
-- Tutor(es): Ángela León Mecías y Camila Perez Mosquera1
+# Shaposhnik Vladislav create README.md
 
 
 Resumen
