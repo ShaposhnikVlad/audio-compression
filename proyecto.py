@@ -1,3 +1,4 @@
+# Shaposhnik Vladislav 09.10.22
 import sys
 import tkinter
 import cv2
